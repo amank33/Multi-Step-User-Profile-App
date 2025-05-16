@@ -1,3 +1,9 @@
+## 🚀 Live Demo
+
+- **Frontend (Vercel):** [https://multi-step-user-profile-app.vercel.app](https://multi-step-user-profile-app.vercel.app)  
+- **Backend (Render):** [https://multi-step-user-profile-app.onrender.com](https://multi-step-user-profile-app.onrender.com)
+
+
 # User Profile Update Form & Dashboard
 
 A full-stack web application for managing user profiles, built with React, Node.js/Express, and MongoDB.
